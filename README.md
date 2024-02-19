@@ -2,8 +2,8 @@
 # 44-566 machine-learning project
 Repo for all project documents
 Project Change.
-I changed my project from predicting tesela accidnets with weather to predicing crime rates with wether. I did this because I was struggleing to find suffectent data for the teselas. 
+I changed my project from predicting Tesla accidents with weather to predicting crime rates with weather. I did this because I was struggling to find sufficient data for the teslas. 
 
-In the initial_exploration notebook i found correlations between the weather attribues but there didnt appear to be any visable corelation between weather conditions and crime rate. I only found a corelation after I started using linear regression. 
+In the initial_exploration notebook, I found correlations between the weather attributes but there didnt appear to be any visible correlation between weather conditions and crime rate. I only found a correlation after I started using linear regression. 
 
-I managed to get the linear regression model down to a ~.09 mean squared error value. compared to the unpredictive model that could get a ~.22 mean squared error value. So while i didnt find any strong corelations at first because the model was able to predict crime rates with relative accruacy I belive there is a corelation between the weather conditions of a day and the number of crimes commited that day. 
+I managed to get the linear regression model down to a ~.09 mean squared error value. compared to the unpredictive model that could get a ~.22 mean squared error value. So while i didnt find any strong correlations at first because the model was able to predict crime rates with relative accuracy I believe there is a correlation between the weather conditions of a day and the number of crimes committed that day. 
