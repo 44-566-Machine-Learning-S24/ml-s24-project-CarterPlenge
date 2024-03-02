@@ -6,4 +6,6 @@ I changed my project from predicting Tesla accidents with weather to predicting 
 
 In the initial_exploration notebook, I found correlations between the weather attributes but there didnt appear to be any visible correlation between weather conditions and crime rate. I only found a correlation after I started using linear regression. 
 
-I managed to get the linear regression model down to a ~.09 mean squared error value. compared to the unpredictive model that could get a ~.22 mean squared error value. So while i didnt find any strong correlations at first because the model was able to predict crime rates with relative accuracy I believe there is a correlation between the weather conditions of a day and the number of crimes committed that day. 
+I managed to get the linear regression model down to a ~.09 mean squared error value. compared to the unpredictable model that could get a ~.22 mean squared error value. So while i didnt find any strong correlations at first because the model was able to predict crime rates with relative accuracy I believe there is a correlation between the weather conditions of a day and the number of crimes committed that day. 
+
+This model takes in weather conditions and tries to predict the number of crimes that will be committed that day. I decided to make this model because i thought that differences in weather conditions might affect people's minds and how they act. 
