@@ -17,7 +17,7 @@ In the initial_exploration notebook, I found correlations between the overall we
 I managed to get the linear regression model down to a Mean Squared Error value of 0.68. This is not that great however with the data I have and what I am trying to predict, this is not unexpected due to the predicted feature not being an actual numeric value, but a state of weather ({'drizzle': 0, 'rain': 1, 'sun': 2, 'snow': 3, 'fog': 4}).
 
 ### Classifications
-When creating the classifications notebook I was able to reach accuracies and f1 scores of around .75 using the decision tree model. Linear, sigmoid, and rbf all produced very similar values around .75 as well.
+When creating the classifications notebook I was able to reach accuracies and f1 scores of around .75 using the decision tree model. Linear, sigmoid, and rbf all produced very similar values around .75 as well. I was unable to get anything out of clusters
 
 
 ### Milestone 3
