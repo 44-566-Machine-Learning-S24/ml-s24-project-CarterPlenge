@@ -10,7 +10,7 @@ I adjusted my previous notebooks to remove the crime rates and predict the overa
 During this change, I tried to make minimal adjustments (just replacing variables) to my original code and commented out any large sections where I replaced more than just variables so that you could see my original work. In addition to this, I updated the markdown cells to match the new data. 
 
 ## Initial thoughts and results when making the notebooks
-
+All of these were wrote directly after i completed the given project milestone. Some information might have change or be wrong. 
 ### initial_exploration
 In the initial_exploration notebook, I found correlations between the overall weather condition and temp_max, precipitation, and wind. These three attributes had a correlation around 0.2 each. temp_min was also a feature but only had a correlation of .04 so was left out. 
 
