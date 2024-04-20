@@ -16,3 +16,7 @@ When clustering the data, the algorithm seemed to split the data set in half bas
 ![image](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/assets/124809586/90e0c185-2e62-41df-9fa6-3ec2b28682c5)
 
 above graphs and information can be found in [this notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/Data.ipynb).
+
+
+
+Portal Back to [ReadMe](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge?tab=readme-ov-file#data)
