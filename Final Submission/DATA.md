@@ -8,10 +8,6 @@ My data had a very uneven distribution of data points with almost all of the rec
 
 ![image](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/assets/124809586/a1f707cf-ad7a-4d2d-935e-252858711f08)
 
-
-
-https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/Data.ipynb
-
 When clustering the data, the algorithm seemed to split the data set in half based on temp Max, then include all of the data points with high precipitation in a different cluster.
 
 ![image](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/assets/124809586/2f324a73-70b5-481d-adb0-cf239f16d3bd)
