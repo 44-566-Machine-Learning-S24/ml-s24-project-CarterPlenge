@@ -19,4 +19,7 @@ After seeing all of my models fail to predict fog or drizzle I wanted to know wh
 
 With this I knew my model was doing a fair job predicting sun, rain, and snow so I tried to create features that would help it predict fog and drizzle, the previous day's temperature, and tried it out in a [notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/Milestone%203%20revised.ipynb) (it's messy as it is a modified version of milestone 3 and the comparison was done by having both, this notebook and notebook 3, open at the same time) but the results were nothing of note and I haven't managed to predict fog or drizzle yet. I think this is mainly due to the lack of fog (5), drizzle (53), and snow (23) instances. While I did make a model that predicted snow, drizzle would be difficult to differentiate between the two largest categories, sun and rain, and fog only has 5 instances. 
 
+### Future Improvements
+Something that I think could be improved upon is detecting drizzle. There are 53 instances of it but it is difficult to separate from sun and rain. It might be possible to apply some sort of transformation that would separate them more. 
+
 Portal back to [ReadMe](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge?tab=readme-ov-file#analysis)
