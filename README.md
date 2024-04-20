@@ -9,10 +9,10 @@ https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/
 https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/RAW_DATA.md
 
 ### DATA
-[https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/DATA.md]
+https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/DATA.md
 
 ### Analysis
-[https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/ANALYSIS.md]
+https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/ANALYSIS.md
 
 ### CONCLUSION
-[https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/CONCLUSION.md]
+https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/CONCLUSION.md
