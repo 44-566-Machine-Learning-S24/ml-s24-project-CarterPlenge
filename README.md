@@ -5,14 +5,14 @@ Repo for all project documents
 For information about project changes and or initial thoughts when working on this project please see: 
 https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/explorationJournal.md
 
-## RAW_DATA
+### RAW_DATA
 https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/RAW_DATA.md
 
-## DATA
+### DATA
 [https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/DATA.md]
 
-## Analysis
+### Analysis
 [https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/ANALYSIS.md]
 
-## CONCLUSION
+### CONCLUSION
 [https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/CONCLUSION.md]
