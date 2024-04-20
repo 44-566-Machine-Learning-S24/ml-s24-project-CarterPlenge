@@ -3,7 +3,7 @@
 Repo for all project documents
 
 For information about project changes and or initial thoughts when working on this project please see: 
-[[[explorationJournal.md](Final Submition/explorationJournal.md)]](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/)explorationJournal.md
+https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/exploratoinJournal.md
 
 ## RAW_DATA
 https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/RAW_DATA.md
