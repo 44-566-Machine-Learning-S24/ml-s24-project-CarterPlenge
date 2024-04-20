@@ -1,5 +1,5 @@
 # RAW_DATA
-### Aquirering the data
+### Acquiring the data
 I downloaded the data provided by Ananth R. on Kaggle. Weather Prediction
 https://www.kaggle.com/datasets/ananthr1/weather-prediction
 
