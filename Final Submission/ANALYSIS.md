@@ -4,6 +4,7 @@ I used a number of models throughout this project but the most effective ones we
 I linked the notebook the models are located in to the name of the model. Their are more notes about them and thoughts about them in there but they aren't very pretty and the core parts are all here. 
 
 For decision trees, validation scores were around .75
+
 SVM - linear, sigmoid, and rbf validation scores were around .70
 [Notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/classification.ipynb) containing them
 
