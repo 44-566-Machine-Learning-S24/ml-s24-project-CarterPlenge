@@ -6,6 +6,7 @@ I linked the notebook the models are located in to the name of the model. Their 
 For decision trees, validation scores were around .75
 
 SVM - linear, sigmoid, and rbf validation scores were around .70
+
 [Notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/classification.ipynb) containing them
 
 Along with these I tryed Nural nets. However i tried temp_min feature agian and found that it allowed the neural net to detect days when it snowed. However, even the neural net wouldnt predict fog, or drizzle.
