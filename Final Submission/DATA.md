@@ -17,4 +17,4 @@ When clustering the data, the algorithm seemed to split the data set in half bas
 
 ![image](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/assets/124809586/90e0c185-2e62-41df-9fa6-3ec2b28682c5)
 
-above graphs and information can be found in [this notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/Data.ipynb). (its the same note book with mean, median...)
+above graphs and information can be found in [this notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/Data.ipynb) along with a .descibe() of the data set listing things like mean and max for each feature. 
