@@ -4,7 +4,7 @@ The target variable for this project was 'weather'. This was a categorical featu
 
 In additon to that I also added the two variables prev_temp_max and prev_temp_min. I added these features because I thought they would be useful when i came to predicting fog, as fog is often formed by the tempeture difference between the ground and air combined with little to no wind. 
 
-[This notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/Data.ipynb) has .describe() of the data if you want know that side of the data but i dont think thats somthing you care about.
+[This notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CarterPlenge/blob/master/Final%20Submission/Data.ipynb) has .describe() of the data if you want know that information, but i dont think thats somthing you care about.
 
 ## Describing the data
 My data had a very uneven distribution of data points with almost all of the records either being rainy or drizzly as can be seen in the histogram below. 
