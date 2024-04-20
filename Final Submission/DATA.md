@@ -1,8 +1,8 @@
 # DATA
 ## What I did with the data
-The target variable for this project was 'weather'. This was a categorical feature that contained the given weather that day. Since this catagorie was non numerical, I applied a mapping to it to convert them all into integers so the computer could process it. 
+The target variable for this project was 'weather'. This was a categorical feature that contained the given weather that day. Since this category was non-numerical, I applied a mapping to it to convert them all into integers so the computer could process it. 
 
-In additon to that I also added the two variables prev_temp_max and prev_temp_min. I added these features because I thought they would be useful when i came to predicting fog, as fog is often formed by the tempeture difference between the ground and air combined with little to no wind. 
+In addition to that, I also added the two variables prev_temp_max and prev_temp_min. I added these features because I thought they would be useful when it came to predicting fog, as fog is often formed by the temperature difference between the ground and air combined with little to no wind. 
 
 ## Describing the data
 My data had a very uneven distribution of data points with almost all of the records either being rainy or drizzly as can be seen in the histogram below. 
